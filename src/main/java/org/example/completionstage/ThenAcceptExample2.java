@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import java.util.concurrent.CompletionStage;
 
 @Slf4j
-public class AcceptExample2 {
+public class ThenAcceptExample2 {
 
     public static void accept() throws InterruptedException {
         log.info("start main");
